@@ -1,4 +1,4 @@
-# Description File
+# A* Pathfinding Visualizer
 
 ## Description of the logic and the design of the game
 The A* Pathfinding game finds the shortest path between startNode and goalNode by using Chebyshev Distance formula (as it gives the best 
